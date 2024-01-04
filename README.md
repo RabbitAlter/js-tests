@@ -1,2 +1,2 @@
 # js-tests
-Playin with js
+Playin with js and ts
