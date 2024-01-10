@@ -1,2 +1,2 @@
-# js-ts tests
+# ts tests
 js and ts
